@@ -2,3 +2,6 @@
 detect the fake news with DL
 
 ## use the kaggle fake news dataset 
+'''bash
+use bash first time
+'''
